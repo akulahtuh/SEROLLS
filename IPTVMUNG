@@ -205,6 +205,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Sport_%282022%2C_alt%29.svg/200px-BBC_Sport_%282022%2C_alt%29.svg.png",BBC UHD
 http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
 
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/sukanrtm.png?raw=true" ,SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/media-u5v44tjwg_b4596000_slENG_173604.ts?id=4
 ============================================================================================================================================================
 DOCUMENTARIES ALL OVER THE WORLD
 ============================================================================================================================================================
